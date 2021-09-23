@@ -32,3 +32,4 @@ crontab -e
 - [https://core.telegram.org/bots] (How create Telegram Bot)
 
 - [https://docs.github.com/pt/github/authenticating-to-github/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account] (Adicionar uma nova chave SSH à sua conta do GitHub)
+
